@@ -1,13 +1,13 @@
 <h1 align="center">Hey 👋, I am Shubham </h1>
 <h3 align="center">A passionate developer and Coder from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Shivam181103&label=Profile%20views&color=0e75b6&style=flat" alt="Shivam181103" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=gshubham804&label=Profile%20views&color=0e75b6&style=flat" alt="gshubham804" /> </p>
 
 - 🔭 I’m currently working on *To Be A Full Stack Developer*
 
 - 🌱 I’m currently learning *React,Nodejs,DBMS*
 
-- 📫 You can Connect me from  *shivamchaudharyclassic@gmail.com*
+- 📫 You can Connect me from  *gshubham804@gmail.com*
 
 - ⚡ Fun fact *I am a learner now.*
  
